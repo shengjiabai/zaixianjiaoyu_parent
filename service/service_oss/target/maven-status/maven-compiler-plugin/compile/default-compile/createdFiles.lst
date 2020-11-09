@@ -1,0 +1,6 @@
+com\atguigu\ossservice\clienttest\DueContrroer.class
+com\atguigu\ossservice\service\impl\OssServiceImpl.class
+com\atguigu\ossservice\OssAppliaction.class
+com\atguigu\ossservice\service\OssService.class
+com\atguigu\ossservice\util\ConstantPropertiesUtils.class
+com\atguigu\ossservice\controller\OssController.class
